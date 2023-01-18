@@ -8,7 +8,7 @@ import Loader from './components/Loader';
 
 function App() {
 
-  const [input, setInput] = useState('87023400');
+  const [input, setInput] = useState('');
   const [cep, setCep] = useState({});
 
   const [isLoading, setIsLoading] = useState(false);
