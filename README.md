@@ -1,4 +1,8 @@
-# Buscador de CEP
+
+![Screenshot 2023-01-18 153357](https://user-images.githubusercontent.com/115950745/213265482-f4f3afee-baab-4dc8-88fe-f44241c6d7be.png)
+
+
+
 Este projeto foi inicializado com Create React App.
 
 Scripts Disponíveis
@@ -13,11 +17,7 @@ Você também pode ver erros de lint no console.
 
 
 
-## <h2 align="center"> 🔗 Acesso ao projeto </h2>
 
-buscador-cep-silk.vercel.app
-
-![Screenshot 2023-01-18 153357](https://user-images.githubusercontent.com/115950745/213265482-f4f3afee-baab-4dc8-88fe-f44241c6d7be.png)
 
 
 <hr>
